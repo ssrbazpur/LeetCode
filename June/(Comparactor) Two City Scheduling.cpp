@@ -1,3 +1,4 @@
+//Time:O(nlogn) and Space:O(1)
 class Solution {
 public:
     int twoCitySchedCost(vector<vector<int>>& costs) {
