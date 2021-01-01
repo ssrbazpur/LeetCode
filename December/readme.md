@@ -1,11 +1,11 @@
 ## Notes
 
 ### Week 1
-* Dec1: Easy
-* Dec2: Reservoir Sampling Question
-* Dec3: 
+* Dec 1: Easy
+* Dec 2: Reservoir Sampling Question
+* Dec 3: 
 
 ### Week 5
-* Dec30: Masking of Numbers
-* Dec31: getLeftLower and getRightLower by using Stack.
+* Dec 30: Masking of Numbers
+* Dec 31: getImmediateLeftLower and getImmediateRightLower by using Stack.
 
