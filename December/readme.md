@@ -9,6 +9,9 @@
 * Dec 6: Tricky: Binary Tree (BFS and make last node of each level point to NULL)
 * Dec 7: Easy. col1 , col2, row1, row2. while(ro1<=row2 && col1<=col2)
 
+### Week 2
+* Dec 8: Tricky Easy: Make a array[60]. Then for each number check that there exists a index in array that adds to 60. 
+* Dec 9:
 
 ### Week 5
 * Dec 30: Masking of Numbers 
