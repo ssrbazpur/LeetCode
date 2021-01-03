@@ -16,6 +16,7 @@
 * Dec 11: Easy Tricky. Make a pointer p. Calculate len by start and end pointer and append only two value using p if greater than 2.
 * Dec 12: Tricky: If leftdepth==rightdepth return node else return greater depth node.
 * Dec 13: Very Hard: Recursion and Memorization: dp[i][j]->burst balloons from i to j. 
+
         ```
         // Solution 1:
         function(nums,left,right,dp):
@@ -29,8 +30,9 @@
             }
             return ans;
 
-        ```
+       ```
 * Dec 14: Hard: Make an index and store in result as soon as it equals size of string.
+
         ```
         //Time:O(N*2^N) | Space:O(N)
         dfs(index,string,tempPath,path):
