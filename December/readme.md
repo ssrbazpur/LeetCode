@@ -47,6 +47,18 @@
             }
         ```
 
+### Week 3
+
+* Dec 15
+* Dec 16
+* Dec 17
+* Dec 18
+* Dec 19
+* Dec 20
+* Dec 21
+
+
+
 ### Week 5
 * Dec 30: Masking of Numbers 
 * Dec 31: getImmediateLeftLower and getImmediateRightLower by using Stack.
