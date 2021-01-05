@@ -53,7 +53,7 @@
 * Dec 16
 * Dec 17
 * Dec 18
-* Dec 19
+* Dec 19 : Hard Cherry Pickup Recursion. 3 choices for R1 and 3 for R2. Max(3*3)
 * Dec 20
 * Dec 21
 
