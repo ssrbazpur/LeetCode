@@ -60,6 +60,7 @@
 
 
 ### Week 5
+* Dec 29: PreOrder Traversal and Check the final branch contain even count and one/no odd counts.
 * Dec 30: Masking of Numbers 
 * Dec 31: getImmediateLeftLower and getImmediateRightLower by using Stack.
 
