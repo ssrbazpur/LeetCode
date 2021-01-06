@@ -7,4 +7,5 @@
 * Jan 3: Medium Tricky: Permutation Algorithm plus one addition check.
 * Jan 4: Easy: Make a dummy node and two pointers for both linked list.
 * Jan 5: Easy : Make dummy and check if duplication or not. 
+* Jan 6: Easy: Make a start=1 and check it in array[i] if not equal decrement k. When k is zero there is the ans.
  
