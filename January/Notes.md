@@ -8,4 +8,15 @@
 * Jan 4: Easy: Make a dummy node and two pointers for both linked list.
 * Jan 5: Easy : Make dummy and check if duplication or not. 
 * Jan 6: Easy: Make a start=1 and check it in array[i] if not equal decrement k. When k is zero there is the ans.
+* Jan 7: Easy Question but tricky with using Pointers. 
+
+    ``` 
+    To Sort by second index.
+    bool static compare(vector<int> &a,vector<int> &b){
+        return a[1]>b[1];
+    }
+
+    vector<vector<int>> a;
+    sort(a.begin(),a.end(),compare);
+    '''
  
