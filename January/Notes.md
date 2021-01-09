@@ -21,3 +21,6 @@
     
     ```
  
+ ## Week 2
+
+ * Jan 9: Note: BFS to be done for finding shortest path between source and destination. Call q.front() and q.pop() inside while loop
