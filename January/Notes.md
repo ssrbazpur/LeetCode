@@ -24,3 +24,4 @@
  ## Week 2
 
  * Jan 9: Note: BFS to be done for finding shortest path between source and destination. Call q.front() and q.pop() inside while loop
+ * Jan 10: Fenwick Tree : 1. Array size is no of elements + 2. 0 index does not store anything. getParent can be done by just inverting the last set bit. 
