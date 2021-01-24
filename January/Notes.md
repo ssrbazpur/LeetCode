@@ -52,7 +52,7 @@
                 return p1.x > p2.x;
             }
         };
-        priority_queue<int,vector<int>,myComparator> q
+        priority_queue<Point,vector<Pont>,myComparator> q
 
 
     ```
