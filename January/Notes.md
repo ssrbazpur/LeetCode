@@ -25,3 +25,34 @@
 
  * Jan 9: Note: BFS to be done for finding shortest path between source and destination. Call q.front() and q.pop() inside while loop
  * Jan 10: Fenwick Tree : 1. Array size is no of elements + 2. 0 index does not store anything. getParent can be done by just inverting the last set bit. 
+
+
+ ## Week 4
+
+  * Jan 23: unordered_map<int, priority_queue<int,vector<int>,greater<int>>> where key is i-j and value is element in that diagonal (Min Heap).
+
+    ```
+    //Priority Queue
+
+    1. Min Heap - priority_queue<int,vector<int>,greater<int>> q;
+    2. Max Heap - priority_queue<int>
+    3. Compare :
+        class Point
+        {
+            public:
+            int x;
+            int y;
+        };
+
+        class myComparator{
+
+            public:
+            int operator()(const Point& p1, const Point& p2)
+            {
+                return p1.x > p2.x;
+            }
+        };
+        priority_queue<int,vector<int>,myComparator> q
+
+
+    ```
