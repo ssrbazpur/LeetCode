@@ -67,6 +67,7 @@ public:
             p2 = p2->next;
         }
         lists[start] = dummyNode->next;
+        lists[mid + 1] = NULL;
     }
 
     ListNode *mergeKLists(vector<ListNode *> &lists)
