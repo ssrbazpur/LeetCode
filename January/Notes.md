@@ -56,3 +56,5 @@
 
 
     ```
+
+    * Jan 26: https://stackoverflow.com/questions/15310846/creating-a-class-object-in-c
