@@ -58,3 +58,13 @@
     ```
 
     * Jan 26: https://stackoverflow.com/questions/15310846/creating-a-class-object-in-c
+
+    * Jan 27: 
+
+    ```
+
+    1. Get Common Last Set bit n & (n-1)
+    2. int mod=1e9+7;
+    3. long long res= res << size | i 
+
+    ```
