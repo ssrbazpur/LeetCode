@@ -1,5 +1,5 @@
 //Quick Select
-// TC:O(log n ) and SC: O(1)
+// TC:O(n ) and SC: O(1)
 class Solution
 {
 public:
