@@ -10,3 +10,16 @@
 2. Iterate through map and get (freq of the element + freq of element + 1) if present. 
 
 ```
+
+* Feb 5: Easy 
+
+```
+
+stringstream s(str);
+string ans;
+while(getline(s,ans,"/")){
+    cout<<ans; // will give all the words delimeter /.==
+}
+
+
+```
